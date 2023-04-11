@@ -29,6 +29,12 @@ const Hero = () => (
           <div className={styles.heroHeading}>Ness</div>
         </motion.div>
       </div>
+      <motion.div
+        variants={slideIn('right' , 'tween',0.2,1)}
+        className="relative w-full md:-mt-[20px] -mt-[12px]"
+        >
+          <div></div>
+      </motion.div>
     </motion.div>
   </section>
 );
