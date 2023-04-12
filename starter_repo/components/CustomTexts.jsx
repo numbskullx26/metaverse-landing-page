@@ -14,7 +14,7 @@ export const TypingText = ({ title, textStyles }) => (
       variants={textVariant2}
       key={index}
       >
-
+        {letter === "" ? "/u00A0" : letter}
       </motion.span>
     ))}
   
