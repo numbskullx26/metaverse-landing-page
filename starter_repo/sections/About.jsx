@@ -21,21 +21,22 @@ const About = () => (
         variants={fadeIn("up", "tween", 0.2, 1)}
         className="mt-[8px] font-normal sm:text-[32px] text-[20px] text-center text-secondary-white"
       >
-        <span className="font-extrabold text-white">The Metaverse,</span> 
-        
-        also stated as a virtual world is not just imagination
-        but will be a reality in the coming years. 
-        The creation of this digital
-        realm will be possible by collecting different technological devices.
-        Every task like shopping, playing, office work, meetings, seminars,
-        entertainment, etc could be easily done by us in this virtual world.
-        This 
-        will be possible by the efforts of companies like Facebook,
-        Microsoft, etc that are showing their interests in working on this
-        concept to bring the existence of the virtual world into reality. The
-        movies like 
-        The Matrix and Ready Player One had given the representation
-        of the virtual world in it.
+        <span className="font-extrabold text-white">The Metaverse,</span>
+        also stated as a virtual world is not just imagination but will be a
+        reality in the coming years.
+        <span className="font-extrabold text-white">The creation</span> of this
+        digital realm will be possible by collecting different technological
+        devices. Every task like shopping, playing, office work, meetings,
+        seminars, entertainment, etc could be easily done by us in this virtual
+        world. This will be possible by the efforts of companies like{" "}
+        <span className="font-extrabold text-white">Facebook, Microsoft</span>,
+        etc that are showing their interests in working on this concept to bring
+        the existence of the virtual world into reality. The movies like The
+        <span className="font-extrabold text-white">
+          {" "}
+          Matrix and Ready Player One
+        </span>{" "}
+        had given the representation of the virtual world in it.
       </motion.p>
     </motion.div>
     About section
