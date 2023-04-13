@@ -28,6 +28,7 @@ const WhatsNew = () => (
           ))}
         </div>
       </motion.div>
+
       <motion.div
         variants={planetVariants('right')}
         className={`flex-1 ${styles.flexCenter}`}
@@ -41,6 +42,5 @@ const WhatsNew = () => (
     </motion.div>
   </section>
 );
-
 
 export default WhatsNew;
