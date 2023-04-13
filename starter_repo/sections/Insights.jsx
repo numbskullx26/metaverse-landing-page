@@ -1,9 +1,8 @@
 'use client';
 
-const Insights = () => (
-  <section>
-    Insights section
-  </section>
-);
+import { motion } from 'framer-motion';
 
-export default Insights;
+import styles from '../styles';
+import { insights } from '../constants';
+import { staggerContainer } from '../utils/motion';
+import { InsightCard, TitleText, TypingText } from '../components';
