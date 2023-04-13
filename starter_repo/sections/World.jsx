@@ -1,9 +1,9 @@
 'use client';
 
-const World = () => (
-  <section>
-    World section
-  </section>
-);
+import { motion } from 'framer-motion';
 
-export default World;
+import styles from '../styles';
+import { TitleText, TypingText } from '../components';
+import { fadeIn, staggerContainer } from '../utils/motion';
+
+
