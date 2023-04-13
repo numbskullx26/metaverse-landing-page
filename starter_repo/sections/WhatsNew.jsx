@@ -28,5 +28,19 @@ const WhatsNew = () => (
           ))}
         </div>
       </motion.div>
-
+      <motion.div
+        variants={planetVariants('right')}
+        className={`flex-1 ${styles.flexCenter}`}
+      >
+        <img
+          src="/whats-new.png"
+          alt="get-started"
+          className="w-[90%] h-[90%] object-contain"
+        />
+      </motion.div>
     </motion.div>
+  </section>
+);
+
+
+export default WhatsNew;
