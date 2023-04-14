@@ -36,6 +36,10 @@ In this world, the computer screens we use today to connect to a worldwide web o
 
 ![image](https://user-images.githubusercontent.com/97308605/232008309-a949bfae-d229-4b1d-88bc-d94622103390.png)
 
+<h2>Asking the Users to make a choice of the world they want to explore</h2>
+
+![image](https://user-images.githubusercontent.com/97308605/232008615-ba161903-83c8-4650-8c94-34cc0bb1d560.png)
+
 
 
 
