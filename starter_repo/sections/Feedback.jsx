@@ -1,9 +1,6 @@
-'use client';
+use client';
 
-const Feedback = () => (
-  <section>
-    Feedback section
-  </section>
-);
+import { motion } from 'framer-motion';
 
-export default Feedback;
+import styles from '../styles';
+import { fadeIn, staggerContainer, zoomIn } from '../utils/motion';
