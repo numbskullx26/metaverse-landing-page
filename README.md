@@ -1,4 +1,4 @@
-####                                                         Metaversus: A Metaverse Landing Page Template
+#Metaversus: A Metaverse Landing Page Template
 
 
 <h1 align="center">What is the Metaverse?</h1>
