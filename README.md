@@ -30,3 +30,12 @@ In this world, the computer screens we use today to connect to a worldwide web o
   <li>Tailwind CSS</li>
 </ul>
 
+<h1 align="center">Sections Included:</h1>
+
+<h2>Navigation Bar and Main Header</h2>
+
+![image](https://user-images.githubusercontent.com/97308605/232008309-a949bfae-d229-4b1d-88bc-d94622103390.png)
+
+
+
+
