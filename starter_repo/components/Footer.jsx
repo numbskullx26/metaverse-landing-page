@@ -1,9 +1,7 @@
 'use client';
 
-const Footer = () => (
-  <footer>
-    footer
-  </footer>
-);
+import { motion } from 'framer-motion';
+import { socials } from '../constants';
 
-export default Footer;
+import styles from '../styles';
+import { footerVariants } from '../utils/motion';
