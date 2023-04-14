@@ -40,6 +40,18 @@ In this world, the computer screens we use today to connect to a worldwide web o
 
 ![image](https://user-images.githubusercontent.com/97308605/232008615-ba161903-83c8-4650-8c94-34cc0bb1d560.png)
 
+<h2>Getting started with the Metaverse</h2>
 
+![image](https://user-images.githubusercontent.com/97308605/232008888-2d538832-1dad-4e13-9b7a-adc9fb881057.png)
 
+<h2>What's new and cooking in the Metaverse?</h2>
 
+![image](https://user-images.githubusercontent.com/97308605/232009045-84642eb3-c104-4ea0-a83d-defe7b10445a.png)
+
+<h2>Insights on the Metaverse</h2>
+
+![image](https://user-images.githubusercontent.com/97308605/232009258-dd5926d4-4ef8-4767-91c9-4a502d035ad2.png)
+
+<h2>Reviews and Footer</h2>
+
+![image](https://user-images.githubusercontent.com/97308605/232009686-6fe3615e-b659-4f04-8955-6165aae371de.png)
