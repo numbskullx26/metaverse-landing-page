@@ -1,1 +1,1 @@
-# metaverse-landing-page
+# Metaversus: A Metaverse Landing Page Template
