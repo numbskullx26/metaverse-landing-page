@@ -2,6 +2,9 @@
 
 
 <h1 align="center">What is the Metaverse?</h1>
+<hr>
+<br>
+<br>
 <p>Imagine a virtual world where billions of people live, work, shop, learn and interact with each other -- all from the comfort of their couches in the physical world.
   
   
