@@ -1,4 +1,4 @@
-# Metaversus: A Metaverse Landing Page Template
+####                                                         Metaversus: A Metaverse Landing Page Template
 
 
 <h1 align="center">What is the Metaverse?</h1>
@@ -30,8 +30,6 @@ In this world, the computer screens we use today to connect to a worldwide web o
   <li>Tailwind CSS</li>
 </ul>
 
-
-<h3 align="center">Made by Indrajeet with ❤️|| Thank You!</h3>
 
 <h1 align="center">Sections Included:</h1>
 
