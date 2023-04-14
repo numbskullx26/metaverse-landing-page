@@ -30,6 +30,9 @@ In this world, the computer screens we use today to connect to a worldwide web o
   <li>Tailwind CSS</li>
 </ul>
 
+
+<h3 align="center">Made by Indrajeet with ❤️|| Thank You!</h3>
+
 <h1 align="center">Sections Included:</h1>
 
 <h2>Navigation Bar and Main Header</h2>
