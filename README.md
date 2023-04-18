@@ -57,4 +57,4 @@ In this world, the computer screens we use today to connect to a worldwide web o
 
 ![image](https://user-images.githubusercontent.com/97308605/232009686-6fe3615e-b659-4f04-8955-6165aae371de.png)
 
-<h3 align="center">Made by Indrajeet with ❤️ @2023 || Thank You!</h3>
+<h3 align="center">Made by Indrajeet with ❤️ 2023 || Thank You!</h3>
